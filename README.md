@@ -2,15 +2,17 @@
 udacity projects done for the nanodegree
 build under Swift 1.2
 
-PitchPerfect
+#PitchPerfect
 * plays back an audio file stored locally or uses a recording from the device's microphone
 * uses audio editing libraries to change pitch or speed during playback
-MemeMe
+
+#MemeMe
 * the user can build a new meme or edit an existing meme
 * the user can use a picture from the phone's photo library or take a camera picture
 * The user can add text to the top or bottom of the picture
 * displays the stored memes in a collection and table view
-OnTheMap
+
+#OnTheMap
 * authenticates user email and password using Udacity's API
 * gets username from the Udacity API
 * uses a Parse API endpoint to get the locations posted by other Udacity students
