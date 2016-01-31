@@ -1,6 +1,6 @@
 # udacity
 * udacity projects completed for the nanodegree
-* build under Swift 1.2
+* built with Swift 1.2
 
 #PitchPerfect
 * plays back an audio file stored locally or uses a recording from the device's microphone
